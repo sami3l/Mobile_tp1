@@ -6,12 +6,7 @@ Ce projet est une application Android permettant de recueillir les informations 
 
 ### ▶️ Lecture directe :
 
-<video width="600" controls>
-  <source src="tp1_record.webm" type="video/webm">
-  Votre navigateur ne supporte pas la lecture de vidéos.
-</video>
-
-> **Remarque :** Si la vidéo ne se lit pas, téléchargez-la et ouvrez-la localement.
+![Démonstration](tp1_record.gif)
 
 ## 📌 Fonctionnalités :
 - Saisie des informations utilisateur via une interface simple.
